@@ -1,0 +1,7 @@
+C:\OBA-Development\DemoApplications\CH\CH.Manager\bin\Debug\CH.Manager.dll
+C:\OBA-Development\DemoApplications\CH\CH.Manager\bin\Debug\CH.Manager.pdb
+C:\OBA-Development\DemoApplications\CH\CH.Manager\obj\Debug\CH.Manager.dll
+C:\OBA-Development\DemoApplications\CH\CH.Manager\obj\Debug\CH.Manager.pdb
+C:\OBA-Development\DemoApplications\CH\CH.Manager\obj\Debug\CH.Manager.csprojResolveAssemblyReference.cache
+C:\OBA-Development\DemoApplications\CH\CH.Manager\bin\Debug\CH.Logger.dll
+C:\OBA-Development\DemoApplications\CH\CH.Manager\bin\Debug\CH.Logger.pdb

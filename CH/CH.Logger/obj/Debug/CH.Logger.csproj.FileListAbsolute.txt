@@ -1,0 +1,5 @@
+C:\OBA-Development\DemoApplications\CH\CH.Logger\bin\Debug\CH.Logger.dll
+C:\OBA-Development\DemoApplications\CH\CH.Logger\bin\Debug\CH.Logger.pdb
+C:\OBA-Development\DemoApplications\CH\CH.Logger\obj\Debug\CH.Logger.csprojResolveAssemblyReference.cache
+C:\OBA-Development\DemoApplications\CH\CH.Logger\obj\Debug\CH.Logger.dll
+C:\OBA-Development\DemoApplications\CH\CH.Logger\obj\Debug\CH.Logger.pdb

@@ -1,0 +1,9 @@
+C:\OBA-Development\DemoApplications\CH\CH.ApiConsumer\bin\Debug\CH.ApiConsumer.exe.config
+C:\OBA-Development\DemoApplications\CH\CH.ApiConsumer\bin\Debug\CH.ApiConsumer.exe
+C:\OBA-Development\DemoApplications\CH\CH.ApiConsumer\bin\Debug\CH.ApiConsumer.pdb
+C:\OBA-Development\DemoApplications\CH\CH.ApiConsumer\bin\Debug\System.Net.Http.Formatting.dll
+C:\OBA-Development\DemoApplications\CH\CH.ApiConsumer\bin\Debug\System.Net.Http.Formatting.xml
+C:\OBA-Development\DemoApplications\CH\CH.ApiConsumer\obj\Debug\CH.ApiConsumer.exe
+C:\OBA-Development\DemoApplications\CH\CH.ApiConsumer\obj\Debug\CH.ApiConsumer.pdb
+C:\OBA-Development\DemoApplications\CH\CH.ApiConsumer\bin\Debug\Newtonsoft.Json.dll
+C:\OBA-Development\DemoApplications\CH\CH.ApiConsumer\bin\Debug\Newtonsoft.Json.xml

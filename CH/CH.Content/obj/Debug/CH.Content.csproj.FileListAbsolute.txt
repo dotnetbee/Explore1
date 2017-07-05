@@ -1,0 +1,5 @@
+C:\OBA-Development\DemoApplications\CH\CH.Content\bin\Debug\CH.Content.dll
+C:\OBA-Development\DemoApplications\CH\CH.Content\bin\Debug\CH.Content.pdb
+C:\OBA-Development\DemoApplications\CH\CH.Content\obj\Debug\CH.Content.dll
+C:\OBA-Development\DemoApplications\CH\CH.Content\obj\Debug\CH.Content.pdb
+C:\OBA-Development\DemoApplications\CH\CH.Content\obj\Debug\CH.Content.csprojResolveAssemblyReference.cache
